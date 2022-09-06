@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @dreeeamcatcher
-- 👀 I’m interested in Data Science and Web Development
-- 🌱 I’m currently learning JavaScript, HTML, CSS
-- 💞️ I’m looking to collaborate on data science and/or web development projects (Junior level)
-- 📫 How to reach me:
 
 Telegram: @dreeeamcatcher
 
